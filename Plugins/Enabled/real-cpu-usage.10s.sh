@@ -1,0 +1,1 @@
+/Users/ricardo.santos/dev/bitbar-plugins/System/real-cpu-usage.10s.sh

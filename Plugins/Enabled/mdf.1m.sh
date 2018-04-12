@@ -1,0 +1,1 @@
+/Users/ricardo.santos/dev/bitbar-plugins/System/mdf.1m.sh
